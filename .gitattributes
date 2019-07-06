@@ -1,6 +1,6 @@
 * text=auto
-*.css linguist-php
-*.scss linguist-php
-*.js linguist-php
-*.html linguist-php
+*.css linguist-language=php
+*.scss linguist-language=php
+*.js linguist-language=php
+*.html linguist-language=php
 CHANGELOG.md export-ignore
