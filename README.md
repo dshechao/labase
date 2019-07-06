@@ -1,2 +1,2 @@
 # base
-my base project
+my laravel base project
